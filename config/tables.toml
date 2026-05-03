@@ -1,0 +1,9 @@
+[[tables]]
+name = "trips_parquet"
+format = "parquet"
+location = "data/fhvhv_tripdata_2026-02.parquet"
+
+[[tables]]
+name = "trips_vortex"
+format = "vortex"
+location = "data/fhvhv_tripdata_2026-02.vortex"
